@@ -316,8 +316,8 @@ body {
 
 /* Logo Image Styling */
 .logo-image {
-    width: 85%;
-    height: 85%;
+    width: 85px;
+    height: 85px;
     object-fit: contain;
     filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.3));
     animation: logo-float 3s ease-in-out infinite;
